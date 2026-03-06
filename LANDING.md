@@ -19,7 +19,7 @@ Building the next generation of AI tools and web experiences. As a young develop
 ### 🤖 FlowChat
 **Professional-grade Multi-LLM Interface**
 FlowChat is a high-performance interface designed to interact with various large language models in one unified workspace.
-- **Status:** Active Development & Live 🟢
+- **Status:** 🟢 Active Development & Live
 - **Experience:** [flowchats.org](https://flowchats.org)
 - **Documentation:** [docs.flowchats.org](https://docs.flowchats.org)
 
