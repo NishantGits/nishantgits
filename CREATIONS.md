@@ -17,6 +17,7 @@
 ### 🤖 FlowChat
 **The Professional Multi-LLM Chat Platform**
 - **Link:** [flowchats.org](https://flowchats.org)
+- **Documentation:** [docs.flowchats.org](https://docs.flowchats.org)
 - **Status:** 🟢 Active Development
 - **Description:** A high-performance interface to interact with various AI models in one place.
 
