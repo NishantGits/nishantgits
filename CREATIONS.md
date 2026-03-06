@@ -17,14 +17,15 @@
 ### 🤖 FlowChat
 **The Professional Multi-LLM Chat Platform**
 - **Link:** [flowchats.org](https://flowchats.org)
-- **Status:** Active Development
+- **Status:** 🟢 Active Development
 - **Description:** A high-performance interface to interact with various AI models in one place.
 
 ---
 
 ### 🎨 HTML FUN
 **Creative & Interactive Web Collection**
-- **Repository:** [nishantgits/html-fun](https://github.com/NishantGits/html-fun)
+- **Repository / Link:** [nishantgits/html-fun](https://github.com/NishantGits/html-fun)
+- **Status:** 🟢 Active Development
 - **License:** MIT
 - **Description:** A curated collection of creative HTML projects showcasing modern web techniques, stunning designs, and innovative user experiences.
 - **Note:** All HTML files include proper attribution to **NishantGits**.
@@ -33,7 +34,8 @@
 
 ### 💧 Fluid AI
 **Local Chatbot Interface**
-- **Repository:** [nishantgits/fluid-ai](https://github.com/NishantGits/fluid-ai)
+- **Repository / Link:** [nishantgits/fluid-ai](https://github.com/NishantGits/fluid-ai)
+- **Status:** 🟡 No Active Development
 - **Access:** Completely Free
 - **Description:** A local-first chatbot site designed for privacy and ease of use.
 
